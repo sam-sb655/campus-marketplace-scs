@@ -1,0 +1,44 @@
+/* src/pages/VendorDashboard.css */
+
+.vendor-dashboard {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center horizontally */
+    justify-content: center; /* Center vertically */
+    height: 100vh; /* Full viewport height */
+  }
+  
+  h1 {
+    font-size: 2.5rem; /* Increase font size for the title */
+    margin-bottom: 2rem; /* Space between title and buttons */
+  }
+  
+  .dashboard-buttons {
+    display: flex;
+    justify-content: space-around; /* Space buttons evenly */
+    width: 100%; /* Full width for the button container */
+  }
+  
+  .button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center the content within button container */
+  }
+  
+  .circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px; /* Width of the circle */
+    height: 100px; /* Height of the circle */
+    border-radius: 50%; /* Make it circular */
+    background-color: #f0f0f0; /* Background color for the circles */
+    margin-bottom: 0.5rem; /* Space between circle and text */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional shadow for better appearance */
+  }
+  
+  .icon {
+    font-size: 3rem; /* Increase icon size */
+    color: #333; /* Icon color */
+  }
+  
