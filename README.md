@@ -80,14 +80,3 @@ campus-marketplace<br>
 └── campus-marketplace-frontend<br>
 |    ├── src/                    # React app source files<br>
 |    └── public/                 # Public assets<br>
-
-
-## Features
-
-- **User Authentication**: Secure login and registration using JWT.
-- **Product Management**: Add, update, and delete products.
-- **Vendor & Buyer Profiles**: Specialized views for vendors and buyers.
-- **Campus-Specific Marketplace**: Products tailored to campus needs, including easy access to student-made designs.
-
-Happy coding!
-```
