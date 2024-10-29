@@ -80,3 +80,6 @@ campus-marketplace<br>
 └── campus-marketplace-frontend<br>
 |    ├── src/                    # React app source files<br>
 |    └── public/                 # Public assets<br>
+
+
+While executing the code, to sign-in as an Admin, the Authentication ID is "ANU-SAM-BAS"
